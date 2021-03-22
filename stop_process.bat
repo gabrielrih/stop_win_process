@@ -1,5 +1,4 @@
 :: It kills a Windows process
-
 @echo off
 
 GOTO :CHECAPERMISSAO
